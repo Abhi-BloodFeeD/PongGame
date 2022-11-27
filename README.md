@@ -2,6 +2,11 @@
 
 This is a Double player  Simple Pong Game
 
+### Rules :
+ 
+* If the Ball misses the bad and hits wall behind , 1 point will be credited to opponent
+
+### Controls :
 
 * Player 1 controls : 
   - Press "w" to move up
